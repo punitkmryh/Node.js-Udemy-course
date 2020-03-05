@@ -1,0 +1,16 @@
+{
+  "name": "node-app",
+  "version": "1.0.0",
+  "description": "Nodejs app",
+  "main": "app.js",
+  "dependencies": {
+    "nodemon": "^2.0.2",
+    "yargs": "^15.1.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Punitkumar",
+  "license": "ISC"
+}
